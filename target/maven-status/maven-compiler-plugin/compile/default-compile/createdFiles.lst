@@ -1,0 +1,6 @@
+spring\controllers\PeopleController.class
+spring\config\SpringConfig.class
+spring\config\MySpringMvcDispatcherServletInitializer.class
+spring\controllers\FirstController.class
+spring\models\Person.class
+spring\dao\PersonDAO.class
